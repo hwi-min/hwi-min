@@ -21,16 +21,56 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Data Science, AI, Data Engineering (docker, spark, Airflow), and Full-Stack Web Dev (Flask + React)**
 
-<!-- - 👯 I’m looking to collaborate on **Smart Factory Quality Analysis** -->
-
 - 📫 How to reach me **whimin0319@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+  
+
+
+<!-- 🎓 Earned a degree in the **English Linguistics and Language Technology (ELLT)** program at Hankuk University of Foreign Studies (HUFS), specializing in **Natural Language Processing (NLP)**. -->
+
+<!-- 💼 Experienced in real-world data analysis projects for SMEs, especially on cost reduction and process automation.
+🛠 Built tools to analyze purchase data, predict future costs, and enhance system verification processes for long-term usability.
+🤝 Skilled in cross-department collaboration, communicating effectively to turn data into decisions.
+🌱 Currently preparing for a data-related position with a strong portfolio built on practical problem-solving.
+🎯 Interested in automating manual workflows, building predictive models, and creating clean data pipelines. -->
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+🧑‍💻 Languages
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+</p>
+
+📊 Data Analysis & Visualization
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+<img src="https://img.shields.io/badge/Seaborn-40A59A?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn">
+</p>
+
+🤖 Web Scraping & Automation
+<p>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
+<img src="https://img.shields.io/badge/BeautifulSoup-000000?style=for-the-badge&logo=Beautiful-Soup&logoColor=white" alt="BeautifulSoup">
+</p>
+
+⚙️ Development & Packaging
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Apache Airflow">
+</p>
+
+🧰 Etc.
+<p>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack">
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack">
+</p>
+
 
 ## 🏅 Stats
 
