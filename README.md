@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 🌱 Currently preparing for a data-related position with a strong portfolio built on practical problem-solving.
 🎯 Interested in automating manual workflows, building predictive models, and creating clean data pipelines. -->
 
+
 <h3 align="left">Languages and Tools:</h3>
 🧑‍💻 Languages
 <p>
@@ -55,6 +56,12 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/BeautifulSoup-000000?style=for-the-badge&logo=Beautiful-Soup&logoColor=white" alt="BeautifulSoup">
 </p>
 
+**⚡ Data Streaming**
+<p>
+<img src="https://img.shields.io/badge/Apache%20Kafka-232121?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Apache Kafka">
+<img src="https://img.shields.io/badge/Apache%20Flink-E65239?style=for-the-badge&logo=apache-flink&logoColor=white" alt="Apache Flink">
+</p>
+
 ⚙️ Development & Packaging
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
@@ -70,7 +77,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack">
 </p>
-
 
 ## 🏅 Stats
 
