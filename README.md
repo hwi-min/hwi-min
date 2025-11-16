@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **One Bite Article** (Check it out [OneBiteArticle](https://github.com/OneBiteArticle))
 
-- 🌱 I’m currently learning **Data Science, AI, Data Engineering (docker, spark, Airflow), and Full-Stack Web Dev (Flask + React)**
+- 🌱 I’m currently learning **Data Science, AI, Data Engineering (docker, spark, Airflow, Kafka, Flink), and Full-Stack Web Dev (Vue.js + Django)**
 
 - 📫 How to reach me **whimin0319@gmail.com**
 
