@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Hwimin Kim</h1>
 <h3 align="center"> A passionate data developer from Korea </h3>
 
-- 🔭 I’m currently working on **One Bite Article** & **gAemI-AI** (Check it out [OneBiteArticle](https://github.com/OneBiteArticle) & [gAemI-AI](https://github.com/gAemI-AI/gAemI-AI))
-
+- 🔭 I’m currently working on **One Bite Article** & **AkkuBangKku** 
 - 🌱 I’m currently learning **Data Science, AI, Data Engineering (docker, spark, Airflow, Kafka, Flink), and Full-Stack Web Dev (Vue.js + Django)**
 
 - 📫 How to reach me **whimin0319@gmail.com**
