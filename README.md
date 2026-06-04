@@ -1,87 +1,74 @@
-
-<!--
-**hwi-min/hwi-min** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi 👋, I'm Hwimin Kim</h1>
-<h3 align="center"> A passionate data developer from Korea </h3>
+<h3 align="center">Data Engineer & AI Pipeline Specialist</h3>
 
-- 🔭 I’m currently working on **One Bite Article** & **AkkuBangKku** 
-- 🌱 I’m currently learning **Data Science, AI, Data Engineering (docker, spark, Airflow, Kafka, Flink), and Full-Stack Web Dev (Vue.js + Django)**
-
-- 📫 How to reach me **whimin0319@gmail.com**
-
-  
-
-
-<!-- 🎓 Earned a degree in the **English Linguistics and Language Technology (ELLT)** program at Hankuk University of Foreign Studies (HUFS), specializing in **Natural Language Processing (NLP)**. -->
-
-<!-- 💼 Experienced in real-world data analysis projects for SMEs, especially on cost reduction and process automation.
-🛠 Built tools to analyze purchase data, predict future costs, and enhance system verification processes for long-term usability.
-🤝 Skilled in cross-department collaboration, communicating effectively to turn data into decisions.
-🌱 Currently preparing for a data-related position with a strong portfolio built on practical problem-solving.
-🎯 Interested in automating manual workflows, building predictive models, and creating clean data pipelines. -->
-
-
-<h3 align="left">Languages and Tools:</h3>
-🧑‍💻 Languages
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+<p align="center">
+  <a href="mailto:whimin0319@gmail.com"><img src="https://img.shields.io/badge/Email-whimin0319@gmail.com-000000?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/hwi-min"><img src="https://img.shields.io/badge/GitHub-hwi--min-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
-📊 Data Analysis & Visualization
-<p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
-<img src="https://img.shields.io/badge/Seaborn-40A59A?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn">
+---
+
+## 🚀 About Me
+
+I am a data engineer focused on building robust data pipelines, scalable AI architectures, and optimizing data infrastructure to solve real-world problems.
+
+* **💼 Current Role:** Data & AI Engineer at **Hana Securities** (Digital AI Department)
+* **🎓 Education:** 
+    * B.A. in **English Linguistics(BLS)** & **AI Convergence** at Hankuk University of Foreign Studies (HUFS)
+    * **Samsung Software Academy for Youth (SSAFY)** | AI & Data Track (1st Semester Completed) — Focused on data engineering, AI modeling, and system pipeline design.
+* **🔬 Experience:**
+    * **Research Intern** at Catholic University of Korea, College of Medicine (**BIDA LAB**) | Data Science Intern — Specialized in medical data preprocessing and pipeline automation.
+
+---
+
+## 🏆 Awards & Research
+
+* **삼성 청년 SW 아카데미 (SSAFY) 특화(핀테크) 프로젝트 우수상 (1등)**
+* **삼성 청년 SW 아카데미 (SSAFY) 1학기 관통 프로젝트 최우수상 (1등)**
+* **2024 한국정보기술학회(KIIT) 추계학술대회 우수 논문상**
+    * [NPMI-BERT4Rec: 카테고리 수준의 보완재 정보를 통합한 향상된 순차적 추천 시스템](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12025088)
+* **2022 남북교류협력 창업아이디어 경진대회 대상 (1등)**
+
+---
+
+## 🛠 Tech Stack
+
+### 🧑‍💻 Languages & Core
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-333333?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-333333?style=flat-square&logo=databricks&logoColor=white" alt="SQL">
 </p>
 
-🤖 Web Scraping & Automation
-<p>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
-<img src="https://img.shields.io/badge/BeautifulSoup-000000?style=for-the-badge&logo=Beautiful-Soup&logoColor=white" alt="BeautifulSoup">
+### ⚙️ Data Engineering & Streaming
+<p align="left">
+  <img src="https://img.shields.io/badge/Apache%20Kafka-333333?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka">
+  <img src="https://img.shields.io/badge/Apache%20Spark-333333?style=flat-square&logo=apachespark&logoColor=white" alt="Spark">
+  <img src="https://img.shields.io/badge/Apache%20Flink-333333?style=flat-square&logo=apacheflink&logoColor=white" alt="Flink">
+  <img src="https://img.shields.io/badge/Apache%20Airflow-333333?style=flat-square&logo=apacheairflow&logoColor=white" alt="Airflow">
+  <img src="https://img.shields.io/badge/Elasticsearch-333333?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch">
 </p>
 
-**⚡ Data Streaming**
-<p>
-<img src="https://img.shields.io/badge/Apache%20Kafka-232121?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Apache Kafka">
-<img src="https://img.shields.io/badge/Apache%20Flink-E65239?style=for-the-badge&logo=apache-flink&logoColor=white" alt="Apache Flink">
+### 🤖 AI, RAG & Data Science
+<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-333333?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/LangChain-333333?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain">
+  <img src="https://img.shields.io/badge/LangGraph-333333?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph">
+  <img src="https://img.shields.io/badge/Pandas-333333?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-333333?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
 </p>
 
-⚙️ Development & Packaging
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Apache Airflow">
+### 📦 DevOps & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-333333?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Git-333333?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Jira-333333?style=flat-square&logo=jira&logoColor=white" alt="Jira">
+  <img src="https://img.shields.io/badge/Notion-333333?style=flat-square&logo=notion&logoColor=white" alt="Notion">
 </p>
 
-🧰 Etc.
-<p>
-<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack">
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
-<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack">
-</p>
+---
 
 ## 🏅 Stats
 
 <div align="center">
-  
-![Hwimin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwi-min&show_icons=true&theme=buefy)
-
-
+  <img src="https://github-readme-stats.vercel.app/api?username=hwi-min&show_icons=true&theme=dark" alt="Hwimin's GitHub stats" />
 </div>
