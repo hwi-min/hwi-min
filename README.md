@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hwimin Kim</h1>
-<h3 align="center">Data Engineer & AI Pipeline Specialist</h3>
+<h3 align="center">Data Engineer & AI Specialist</h3>
 
 <p align="center">
   <a href="mailto:whimin0319@gmail.com"><img src="https://img.shields.io/badge/Email-whimin0319@gmail.com-000000?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
