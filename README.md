@@ -14,7 +14,7 @@ I am a data engineer focused on building robust data pipelines, scalable AI arch
 
 * **💼 Current Role:** Data & AI Engineer at **Hana Securities** (Digital AI Department)
 * **🎓 Education:** 
-    * B.A. in **English Linguistics(BLS)** & **AI Convergence** at Hankuk University of Foreign Studies (HUFS)
+    * B.A. in **Language Science(BLS)** & **AI Convergence** at Hankuk University of Foreign Studies (HUFS)
     * **Samsung Software Academy for Youth (SSAFY)** | AI & Data Track (1st Semester Completed) — Focused on data engineering, AI modeling, and system pipeline design.
 * **🔬 Experience:**
     * **Research Intern** at Catholic University of Korea, College of Medicine (**BIDA LAB**) | Data Science Intern — Specialized in medical data preprocessing and pipeline automation.
